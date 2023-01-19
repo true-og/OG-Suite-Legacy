@@ -1,0 +1,15 @@
+[submodule "NoClip-OG"]
+	path = NoClip-OG
+	url = git@github.com:NotAlexNoyle/NoClip-OG
+[submodule "FirstPlayed-OG"]
+	path = FirstPlayed-OG
+	url = git@github.com:NotAlexNoyle/FirstPlayed-OG
+[submodule "NoDespawn-OG"]
+	path = NoDespawn-OG
+	url = git@github.com:NotAlexNoyle/NoDespawn-OG
+[submodule "AntiPearlGlitch-OG"]
+	path = AntiPearlGlitch-OG
+	url = git@github.com:NotAlexNoyle/AntiPearlGlitch-OG
+[submodule "DiamondBank-OG"]
+	path = DiamondBank-OG
+	url = git@github.com:NotAlexNoyle/DiamondBank-OG
