@@ -1,2 +1,4 @@
 # OG-Plugin-Suite
-TrueOG's original plugins. Some in-house, some forks.
+
+
+Plugins created by or maintained as forks by [TrueOG](https://true-og.net/).
