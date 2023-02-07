@@ -13,3 +13,6 @@
 [submodule "DiamondBank-OG"]
 	path = DiamondBank-OG
 	url = git@github.com:NotAlexNoyle/DiamondBank-OG
+[submodule "Splegg-OG"]
+	path = Splegg-OG
+	url = git@github.com:NotAlexNoyle/Splegg-OG
