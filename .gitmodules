@@ -16,3 +16,6 @@
 [submodule "Splegg-OG"]
 	path = Splegg-OG
 	url = git@github.com:NotAlexNoyle/Splegg-OG
+[submodule "RandomEggs-OG"]
+	path = RandomEggs-OG
+	url = https://github.com/s0me0ne-coder/RandomEggs-OG
