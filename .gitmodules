@@ -22,6 +22,6 @@
 [submodule "FlyingBow-OG"]
 	path = FlyingBow-OG
 	url = https://github.com/Barny1094875/FlyingBow-OG.git
-[submodule "ChainmailArmorRecipe-OG"]
+[submodule "ChainmailArmorRecipes-OG"]
 	path = ChainmailArmorRecipe
-	url = https://github.com/Barny1094875/ChainmailArmorRecipe-OG.git
+	url = https://github.com/Barny1094875/ChainmailArmorRecipes-OG.git
