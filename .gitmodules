@@ -19,3 +19,6 @@
 [submodule "IllegalStack-OG"]
 	path = IllegalStack-OG
 	url = https://github.com/NotAlexNoyle/IllegalStack-OG
+[submodule "FlyingBow-OG"]
+	path = FlyingBow-OG
+	url = https://github.com/Barny1094875/FlyingBow-OG.git
