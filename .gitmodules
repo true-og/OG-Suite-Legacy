@@ -31,3 +31,6 @@
 [submodule "TheHerobrine-OG"]
 	path = TheHerobrine-OG
 	url = https://github.com/Gxorge/TheHerobrine-OG
+[submodule "Chat-OG"]
+	path = Chat-OG
+	url = https://github.com/SKBotNL/Chat-OG
