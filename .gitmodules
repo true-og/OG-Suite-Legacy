@@ -31,6 +31,10 @@
 [submodule "TheHerobrine-OG"]
 	path = TheHerobrine-OG
 	url = https://github.com/Gxorge/TheHerobrine-OG
+	branch = trueog
 [submodule "Chat-OG"]
 	path = Chat-OG
 	url = https://github.com/SKBotNL/Chat-OG
+[submodule "FastCrystals-OG"]
+	path = FastCrystals-OG
+	url = https://github.com/NotAlexNoyle/FastCrystals-OG
