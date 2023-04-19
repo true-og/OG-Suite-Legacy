@@ -25,3 +25,6 @@
 [submodule "ChainMailArmorRecipes-OG"]
 	path = ChainMailArmorRecipes-OG
 	url = https://github.com/Barny1094875/ChainMailArmorRecipes-OG.git
+[submodule "LaunchPads-OG"]
+	path = LaunchPads-OG
+	url = https://github.com/Barny1094875/LaunchPads-OG.git
