@@ -38,3 +38,6 @@
 [submodule "FastCrystals-OG"]
 	path = FastCrystals-OG
 	url = https://github.com/NotAlexNoyle/FastCrystals-OG
+[submodule "LaunchPads-OG"]
+	path = LaunchPads-OG
+	url = https://github.com/Barny1094875/LaunchPads-OG.git
