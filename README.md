@@ -1,4 +1,4 @@
 # OG-Plugin-Suite
 
 
-Plugins created by or maintained as forks by [TrueOG](https://true-og.net/).
+The OG Suite is the custom set of plugins created or maintained as forks by [TrueOG](https://true-og.net/).
