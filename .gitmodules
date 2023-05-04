@@ -47,3 +47,6 @@
 [submodule "SilkSpawners-OG"]
 	path = SilkSpawners-OG
 	url = https://github.com/Sekalol15/SilkSpawners-OG
+[submodule "QuickShop-Reremake-OG"]
+	path = QuickShop-Reremake-OG
+	url = https://github.com/NotAlexNoyle/QuickShop-Reremake-OG
