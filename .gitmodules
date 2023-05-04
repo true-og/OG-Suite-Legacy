@@ -41,6 +41,9 @@
 [submodule "LaunchPads-OG"]
 	path = LaunchPads-OG
 	url = https://github.com/Barny1094875/LaunchPads-OG.git
+[submodule "HorseTp-OG"]
+	path = HorseTp-OG
+	url = https://github.com/Barny1094875/HorseTp-OG.git
 [submodule "SilkSpawners-OG"]
 	path = SilkSpawners-OG
 	url = https://github.com/Sekalol15/SilkSpawners-OG
