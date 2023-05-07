@@ -50,3 +50,6 @@
 [submodule "QuickShop-Reremake-OG"]
 	path = QuickShop-Reremake-OG
 	url = https://github.com/NotAlexNoyle/QuickShop-Reremake-OG
+[submodule "WETS-OG"]
+	path = WETS-OG
+	url = https://github.com/NotAlexNoyle/WETS-OG
