@@ -53,3 +53,6 @@
 [submodule "WETS-OG"]
 	path = WETS-OG
 	url = https://github.com/NotAlexNoyle/WETS-OG
+[submodule "Staff-OG"]
+	path = Staff-OG
+	url = https://github.com/Gxorge/Staff-OG/
