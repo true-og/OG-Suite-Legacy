@@ -56,3 +56,6 @@
 [submodule "Staff-OG"]
 	path = Staff-OG
 	url = https://github.com/Gxorge/Staff-OG/
+[submodule "ColorCodes-OG"]
+	path = ColorCodes-OG
+	url = git@github.com:NotAlexNoyle/ColorCodes-OG
