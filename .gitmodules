@@ -62,3 +62,6 @@
 [submodule "Buy-OG"]
 	path = Buy-OG
 	url = git@github.com:NotAlexNoyle/Buy-OG
+[submodule "NoFlippy-OG"]
+	path = NoFlippy-OG
+	url = https://github.com/NotAlexNoyle/NoFlippy-OG
