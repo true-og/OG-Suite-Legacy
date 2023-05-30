@@ -15,10 +15,10 @@
 	url = https://github.com/NotAlexNoyle/Splegg-OG.git
 [submodule "RandomEggs-OG"]
 	path = RandomEggs-OG
-	url = https://github.com/s0me0ne-coder/RandomEggs-OG
+	url = https://github.com/s0me0ne-coder/RandomEggs-OG.git
 [submodule "IllegalStack-OG"]
 	path = IllegalStack-OG
-	url = https://github.com/NotAlexNoyle/IllegalStack-OG
+	url = https://github.com/NotAlexNoyle/IllegalStack-OG.git
 [submodule "FlyingBow-OG"]
 	path = FlyingBow-OG
 	url = https://github.com/Barny1094875/FlyingBow-OG.git
@@ -27,17 +27,17 @@
 	url = https://github.com/Barny1094875/ChainMailArmorRecipes-OG.git
 [submodule "RewindFix-OG"]
 	path = RewindFix-OG
-	url = https://github.com/SKBotNL/RewindFix-OG
+	url = https://github.com/SKBotNL/RewindFix-OG.git
 [submodule "TheHerobrine-OG"]
 	path = TheHerobrine-OG
-	url = https://github.com/Gxorge/TheHerobrine-OG
+	url = https://github.com/Gxorge/TheHerobrine-OG.git
 	branch = trueog
 [submodule "Chat-OG"]
 	path = Chat-OG
-	url = https://github.com/SKBotNL/Chat-OG
+	url = https://github.com/SKBotNL/Chat-OG.git
 [submodule "FastCrystals-OG"]
 	path = FastCrystals-OG
-	url = https://github.com/NotAlexNoyle/FastCrystals-OG
+	url = https://github.com/NotAlexNoyle/FastCrystals-OG.git
 [submodule "LaunchPads-OG"]
 	path = LaunchPads-OG
 	url = https://github.com/Barny1094875/LaunchPads-OG.git
@@ -46,22 +46,22 @@
 	url = https://github.com/Barny1094875/HorseTp-OG.git
 [submodule "SilkSpawners-OG"]
 	path = SilkSpawners-OG
-	url = https://github.com/Sekalol15/SilkSpawners-OG
+	url = https://github.com/Sekalol15/SilkSpawners-OG.git
 [submodule "QuickShop-Reremake-OG"]
 	path = QuickShop-Reremake-OG
-	url = https://github.com/NotAlexNoyle/QuickShop-Reremake-OG
+	url = https://github.com/NotAlexNoyle/QuickShop-Reremake-OG.git
 [submodule "WETS-OG"]
 	path = WETS-OG
-	url = https://github.com/NotAlexNoyle/WETS-OG
+	url = https://github.com/NotAlexNoyle/WETS-OG.git
 [submodule "Staff-OG"]
 	path = Staff-OG
-	url = https://github.com/Gxorge/Staff-OG/
+	url = https://github.com/Gxorge/Staff-OG.git
 [submodule "ColorCodes-OG"]
 	path = ColorCodes-OG
-	url = git@github.com:NotAlexNoyle/ColorCodes-OG
+	url = https://github.com/NotAlexNoyle/ColorCodes-OG.git
 [submodule "Buy-OG"]
 	path = Buy-OG
-	url = git@github.com:NotAlexNoyle/Buy-OG
+	url = https://github.com/NotAlexNoyle/Buy-OG.git
 [submodule "NoFlippy-OG"]
 	path = NoFlippy-OG
-	url = https://github.com/NotAlexNoyle/NoFlippy-OG
+	url = https://github.com/NotAlexNoyle/NoFlippy-OG.git
