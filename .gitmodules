@@ -1,6 +1,6 @@
 [submodule "NoClip-OG"]
 	path = NoClip-OG
-	url = git@github.com:NotAlexNoyle/NoClip-OG
+	url = https://github.com/NotAlexNoyle/NoClip-OG.git
 [submodule "FirstPlayed-OG"]
 	path = FirstPlayed-OG
 	url = git@github.com:NotAlexNoyle/FirstPlayed-OG
