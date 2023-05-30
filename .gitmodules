@@ -3,16 +3,16 @@
 	url = https://github.com/NotAlexNoyle/NoClip-OG.git
 [submodule "FirstPlayed-OG"]
 	path = FirstPlayed-OG
-	url = git@github.com:NotAlexNoyle/FirstPlayed-OG
+	url = https://github.com/NotAlexNoyle/FirstPlayed-OG.git
 [submodule "NoDespawn-OG"]
 	path = NoDespawn-OG
-	url = git@github.com:NotAlexNoyle/NoDespawn-OG
+	url = https://github.com/NotAlexNoyle/NoDespawn-OG.git
 [submodule "DiamondBank-OG"]
 	path = DiamondBank-OG
-	url = git@github.com:NotAlexNoyle/DiamondBank-OG
+	url = https://github.com/NotAlexNoyle/DiamondBank-OG.git
 [submodule "Splegg-OG"]
 	path = Splegg-OG
-	url = git@github.com:NotAlexNoyle/Splegg-OG
+	url = https://github.com/NotAlexNoyle/Splegg-OG.git
 [submodule "RandomEggs-OG"]
 	path = RandomEggs-OG
 	url = https://github.com/s0me0ne-coder/RandomEggs-OG
