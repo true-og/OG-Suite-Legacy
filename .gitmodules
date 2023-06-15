@@ -65,3 +65,6 @@
 [submodule "NoFlippy-OG"]
 	path = NoFlippy-OG
 	url = https://github.com/NotAlexNoyle/NoFlippy-OG.git
+[submodule "Utilities-OG"]
+	path = Utilities-OG
+	url = https://github.com/Barny1094875/Utilities-OG.git
