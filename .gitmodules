@@ -68,6 +68,6 @@
 [submodule "Utilities-OG"]
 	path = Utilities-OG
 	url = https://github.com/Barny1094875/Utilities-OG.git
-[submodule "OCM-Libre"]
-	path = OCM-Libre
-	url = https://github.com/NotAlexNoyle/OCM-Libre
+[submodule "OldCombatMechanics-OG"]
+	path = OldCombatMechanics-OG
+	url = https://github.com/NotAlexNoyle/OldCombatMechanics-OG
