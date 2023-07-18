@@ -70,7 +70,7 @@
 	url = https://github.com/Barny1094875/Utilities-OG.git
 [submodule "OldCombatMechanics-OG"]
 	path = OldCombatMechanics-OG
-	url = https://github.com/NotAlexNoyle/OldCombatMechanics-OG
+	url = https://github.com/NotAlexNoyle/OldCombatMechanics-OG.git
 [submodule "BuffRates-OG"]
 	path = BuffRates-OG
-	url = git@github.com:Sekalol15/BuffRates-OG.git
+	url = https://github.com/Sekalol15/BuffRates-OG.git
