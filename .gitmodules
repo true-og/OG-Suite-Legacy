@@ -74,3 +74,6 @@
 [submodule "BuffRates-OG"]
 	path = BuffRates-OG
 	url = https://github.com/Sekalol15/BuffRates-OG.git
+[submodule "Cosmetics-OG"]
+	path = Cosmetics-OG
+	url = https://github.com/NotAlexNoyle/Cosmetics-OG
