@@ -77,3 +77,6 @@
 [submodule "Cosmetics-OG"]
 	path = Cosmetics-OG
 	url = https://github.com/NotAlexNoyle/Cosmetics-OG
+[submodule "HolyGrail-OG"]
+	path = HolyGrail-OG
+	url = https://github.com/NotAlexNoyle/HolyGrail-OG
