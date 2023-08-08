@@ -80,3 +80,6 @@
 [submodule "HolyGrail-OG"]
 	path = HolyGrail-OG
 	url = https://github.com/NotAlexNoyle/HolyGrail-OG
+[submodule "ToggleDeathCoordinates-OG"]
+	path = ToggleDeathCoordinates-OG
+	url = https://github.com/NotAlexNoyle/ToggleDeathCoordinates-OG
