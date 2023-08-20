@@ -80,3 +80,6 @@
 [submodule "ToggleDeathCoordinates-OG"]
 	path = ToggleDeathCoordinates-OG
 	url = https://github.com/NotAlexNoyle/ToggleDeathCoordinates-OG
+[submodule "Duels-OG"]
+	path = Duels-OG
+	url = https://github.com/NotAlexNoyle/Duels-OG
