@@ -83,3 +83,6 @@
 [submodule "Duels-OG"]
 	path = Duels-OG
 	url = https://github.com/NotAlexNoyle/Duels-OG
+[submodule "PurpurExtras-OG"]
+	path = PurpurExtras-OG
+	url = https://github.com/NotAlexNoyle/PurpurExtras-OG
