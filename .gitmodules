@@ -50,12 +50,6 @@
 [submodule "Staff-OG"]
 	path = Staff-OG
 	url = https://github.com/Gxorge/Staff-OG.git
-[submodule "ColorCodes-OG"]
-	path = ColorCodes-OG
-	url = https://github.com/NotAlexNoyle/ColorCodes-OG.git
-[submodule "NoFlippy-OG"]
-	path = NoFlippy-OG
-	url = https://github.com/NotAlexNoyle/NoFlippy-OG.git
 [submodule "Utilities-OG"]
 	path = Utilities-OG
 	url = https://github.com/Barny1094875/Utilities-OG.git
