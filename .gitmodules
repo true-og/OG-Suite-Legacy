@@ -13,9 +13,6 @@
 [submodule "Splegg-OG"]
 	path = Splegg-OG
 	url = https://github.com/NotAlexNoyle/Splegg-OG.git
-[submodule "RandomEggs-OG"]
-	path = RandomEggs-OG
-	url = https://github.com/s0me0ne-coder/RandomEggs-OG.git
 [submodule "IllegalStack-OG"]
 	path = IllegalStack-OG
 	url = https://github.com/NotAlexNoyle/IllegalStack-OG.git
@@ -44,9 +41,6 @@
 [submodule "HorseTp-OG"]
 	path = HorseTp-OG
 	url = https://github.com/Barny1094875/HorseTp-OG.git
-[submodule "SilkSpawners-OG"]
-	path = SilkSpawners-OG
-	url = https://github.com/Sekalol15/SilkSpawners-OG.git
 [submodule "QuickShop-Reremake-OG"]
 	path = QuickShop-Reremake-OG
 	url = https://github.com/NotAlexNoyle/QuickShop-Reremake-OG.git
@@ -86,3 +80,6 @@
 [submodule "PurpurExtras-OG"]
 	path = PurpurExtras-OG
 	url = https://github.com/NotAlexNoyle/PurpurExtras-OG
+[submodule "RandomDrops-OG"]
+	path = RandomDrops-OG
+	url = https://github.com/Sekalol15/RandomDrops-OG.git
