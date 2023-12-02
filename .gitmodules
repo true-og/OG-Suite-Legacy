@@ -19,9 +19,6 @@
 [submodule "FlyingBow-OG"]
 	path = FlyingBow-OG
 	url = https://github.com/Barny1094875/FlyingBow-OG.git
-[submodule "ChainMailArmorRecipes-OG"]
-	path = ChainMailArmorRecipes-OG
-	url = https://github.com/Barny1094875/ChainMailArmorRecipes-OG.git
 [submodule "RewindFix-OG"]
 	path = RewindFix-OG
 	url = https://github.com/SKBotNL/RewindFix-OG.git
