@@ -74,3 +74,6 @@
 [submodule "RandomDrops-OG"]
 	path = RandomDrops-OG
 	url = https://github.com/Sekalol15/RandomDrops-OG.git
+[submodule "GxGUI-OG"]
+	path = GxGUI-OG
+	url = https://github.com/NotAlexNoyle/GxGUI-OG
