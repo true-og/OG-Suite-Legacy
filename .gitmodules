@@ -58,22 +58,25 @@
 	url = https://github.com/Sekalol15/BuffRates-OG.git
 [submodule "Cosmetics-OG"]
 	path = Cosmetics-OG
-	url = https://github.com/NotAlexNoyle/Cosmetics-OG
+	url = https://github.com/NotAlexNoyle/Cosmetics-OG.git
 [submodule "HolyGrail-OG"]
 	path = HolyGrail-OG
-	url = https://github.com/NotAlexNoyle/HolyGrail-OG
+	url = https://github.com/NotAlexNoyle/HolyGrail-OG.git
 [submodule "ToggleDeathCoordinates-OG"]
 	path = ToggleDeathCoordinates-OG
-	url = https://github.com/NotAlexNoyle/ToggleDeathCoordinates-OG
+	url = https://github.com/NotAlexNoyle/ToggleDeathCoordinates-OG.git
 [submodule "Duels-OG"]
 	path = Duels-OG
-	url = https://github.com/NotAlexNoyle/Duels-OG
+	url = https://github.com/NotAlexNoyle/Duels-OG.git
 [submodule "PurpurExtras-OG"]
 	path = PurpurExtras-OG
-	url = https://github.com/NotAlexNoyle/PurpurExtras-OG
+	url = https://github.com/NotAlexNoyle/PurpurExtras-OG.git
 [submodule "RandomDrops-OG"]
 	path = RandomDrops-OG
 	url = https://github.com/Sekalol15/RandomDrops-OG.git
 [submodule "GxGUI-OG"]
 	path = GxGUI-OG
-	url = https://github.com/NotAlexNoyle/GxGUI-OG
+	url = https://github.com/NotAlexNoyle/GxGUI-OG.git
+[submodule "SudoSigns-OG"]
+	path = SudoSigns-OG
+	url = https://github.com/NotAlexNoyle/SudoSigns-OG.git
