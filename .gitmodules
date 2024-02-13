@@ -76,7 +76,7 @@
 	url = https://github.com/Sekalol15/RandomDrops-OG.git
 [submodule "GxGUI-OG"]
 	path = GxGUI-OG
-	url = https://github.com/NotAlexNoyle/GxGUI-OG.git
+	url = https://github.com/Gxorge/GxUI.git
 [submodule "SudoSigns-OG"]
 	path = SudoSigns-OG
 	url = https://github.com/NotAlexNoyle/SudoSigns-OG.git
