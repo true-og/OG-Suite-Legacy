@@ -80,3 +80,6 @@
 [submodule "SudoSigns-OG"]
 	path = SudoSigns-OG
 	url = https://github.com/NotAlexNoyle/SudoSigns-OG.git
+[submodule "SimpleBounties-OG"]
+	path = SimpleBounties-OG
+	url = https://github.com/NotAlexNoyle/SimpleBounties-OG
